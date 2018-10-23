@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgoTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2018-10-23T03:38:55" hostname="Rishabs-MacBook-Pro.local" time="0.026">
+  <properties/>
+  <testcase name="selectionSort1" classname="test.java.AlgoTest" time="0.006"/>
+  <testcase name="selectionSort2" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="BubbleSort1" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="BubbleSort2" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="BubbleSort3" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="insertionSort1" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="insertionSort2" classname="test.java.AlgoTest" time="0.002"/>
+  <testcase name="mergeSort1" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="mergeSort2" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="mergeSort3" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="heapSort1" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="quickSort1" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="quickSort2" classname="test.java.AlgoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
